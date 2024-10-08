@@ -13,6 +13,9 @@ const Home = () => {
       <div>
         <Link href={"/contact-us"}>Contact Us</Link>
       </div>
+      <div>
+        
+      </div>
     </div>
   );
 };
